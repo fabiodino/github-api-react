@@ -1,0 +1,12 @@
+.search-input {
+    border: 2px solid black;
+    border-radius: 3px;
+    margin-right: 5px;
+    text-align: center;
+}
+  
+.search-button {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+  
